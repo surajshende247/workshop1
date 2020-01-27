@@ -29,13 +29,16 @@ Required Skills
 
 
 ## Milestone 5 :clock930:
+- [x] EditText
 
 ## Milestone 6 :clock930:
 
 ## Milestone 7 :clock930:
 
 ## Milestone 8 :clock930:
+- [x] MCQ App
 
 ## Milestone 9 :clock930:
+- [x] Dice Roller App
 
 ## Happy Ending :clock2: :tada:  :tada: :tada: :100:
