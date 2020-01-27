@@ -15,6 +15,7 @@ Required Skills
 >2.Basics of XML
 
 ## Milestone 2 :clock930:
+- [x] TextView
 
 ## Milestone 3 :clock930:
 
