@@ -28,7 +28,7 @@ Required Skills
 - [x] Toast
 
 
-## Milestone 5 :clock930:
+## Milestone 5 :clock10:
 - [x] EditText
 
 ## Milestone 6 :clock930:
