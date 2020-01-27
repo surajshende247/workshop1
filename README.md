@@ -14,7 +14,7 @@ Required Skills
 
 >2.Basics of XML
 
-## Milestone 2 :clock930:
+## Milestone 2 :clock10:
 - [x] Introduction to Android Studio
 - [x] Running Hello World App
 
