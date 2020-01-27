@@ -1,3 +1,3 @@
 # Android Workshop
 
-## Milestone 1 :rocket:
+## Milestone 1 :clock930:
