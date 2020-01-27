@@ -36,7 +36,7 @@ Required Skills
 ## Milestone 6 :clock1230:
 - [x] Sign In App
 
-## Milestone 7 :clock145:
+## Milestone 7 :clock1:
 - [x] Dice Roller App
 
 ## Happy Ending :clock2: :tada:  :tada: :tada: :100:
