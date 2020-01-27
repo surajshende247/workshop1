@@ -36,7 +36,7 @@ Required Skills
 
 
 ## Milestone 7 :clock930:
-- [x] MCQ App
+
 
 ## Milestone 8 :clock930:
 - [x] Dice Roller App
