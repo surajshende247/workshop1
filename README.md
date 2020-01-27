@@ -23,6 +23,9 @@ Required Skills
 - [x] Layouts
 
 ## Milestone 4 :clock930:
+- [x] Button
+- [x] Toast
+
 
 ## Milestone 5 :clock930:
 
