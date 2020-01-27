@@ -1,3 +1,3 @@
 # Android Workshop
 
-## Task1 :rocket:
+## Milestone 1 :rocket:
