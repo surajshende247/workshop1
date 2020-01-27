@@ -6,8 +6,9 @@
 What is Android ?
 >Android is a mobile operating system based on a modified version of the Linux kernel and other open source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.
 
-Tools Required
->1.Basucs of Java
+Required Skills
+>1.Basics of Java
+ 2.Basics of XML
 
 ## Milestone 2 :clock930:
 
