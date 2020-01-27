@@ -38,7 +38,7 @@ Required Skills
 ## Break :clock930:
 
 
-## Milestone 8 :clock930:
+## Milestone 7 :clock930:
 - [x] Dice Roller App
 
 ## Happy Ending :clock2: :tada:  :tada: :tada: :100:
