@@ -18,27 +18,25 @@ Required Skills
 - [x] Introduction to Android Studio
 - [x] Running Hello World App
 
-## Milestone 3 :clock930:
+## Milestone 3 :clock1030:
 - [x] TextView
 - [x] ImageView
 - [x] Layouts
 
-## Milestone 4 :clock930:
+## Milestone 4 :clock11:
 - [x] Button
 - [x] Toast
 
 
-## Milestone 5 :clock10:
+## Milestone 5 :clock1130:
 - [x] EditText
 
-## Milestone 6 :clock930:
+## Break :clock12:
+
+## Milestone 6 :clock1230:
 - [x] Sign In App
 
-
-## Break :clock930:
-
-
-## Milestone 7 :clock930:
+## Milestone 7 :clock145:
 - [x] Dice Roller App
 
 ## Happy Ending :clock2: :tada:  :tada: :tada: :100:
