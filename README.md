@@ -35,7 +35,7 @@ Required Skills
 - [x] Sign In App
 
 
-## Milestone 7 :clock930:
+## Break :clock930:
 
 
 ## Milestone 8 :clock930:
