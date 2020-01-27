@@ -20,6 +20,7 @@ Required Skills
 
 ## Milestone 3 :clock930:
 - [x] TextView
+- [x] ImageView
 - [x] Layouts
 
 ## Milestone 4 :clock930:
