@@ -8,6 +8,7 @@ What is Android ?
 
 Required Skills
 >1.Basics of Java
+
 >2.Basics of XML
 
 ## Milestone 2 :clock930:
