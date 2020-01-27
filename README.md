@@ -1,7 +1,7 @@
 # Android Workshop
 
 ## Milestone 1 :clock930:
--[x] Introduction to Android
+- [x] Introduction to Android
 
 What is Android ?
 >Android is a mobile operating system based on a modified version of the Linux kernel and other open source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.
