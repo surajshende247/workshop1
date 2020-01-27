@@ -15,10 +15,12 @@ Required Skills
 >2.Basics of XML
 
 ## Milestone 2 :clock930:
-- [x] TextView
-- [x] Layouts
+- [x] Introduction to Android Studio
+- [x] Running Hello World App
 
 ## Milestone 3 :clock930:
+- [x] TextView
+- [x] Layouts
 
 ## Milestone 4 :clock930:
 
